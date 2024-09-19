@@ -1,7 +1,5 @@
 # SMOTE-Enhanced-SVM-Classification-with-Stratified-K-Fold
 "Implementation of an SVM classification model using various kernels, enhanced with CURE-SMOTE for oversampling. The model is evaluated using stratified k-fold cross-validation to improve performance on imbalanced datasets."
-<h1>SVM Classification with CURE-SMOTE and K-fold Cross-validation</h1>
-
 <p>This project demonstrates the use of Support Vector Machine (SVM) classification combined with CURE-SMOTE oversampling to handle imbalanced datasets. The results are validated using stratified k-fold cross-validation.</p>
 
 <h2>Features</h2>
